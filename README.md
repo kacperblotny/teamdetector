@@ -3,5 +3,12 @@
 **Team-Detector**
 
 Python version: 3.12
-
+```
 $ git clone [https://github.com/alexemanuelol/team-detector.git](https://github.com/KacperBlotny/teamdetector)
+```
+
+**Usage**
+
+First field - input battlemetrics link
+Second field - input steamid64 or steam profile link
+
