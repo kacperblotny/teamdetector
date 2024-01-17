@@ -10,5 +10,7 @@ $ git clone [https://github.com/alexemanuelol/team-detector.git](https://github.
 **Usage**
 
 First field - input battlemetrics link
+
 Second field - input steamid64 or steam profile link
 
+Simply run **tdgui.py** with python 3.12 and enjoy a simple gui
