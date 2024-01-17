@@ -13,4 +13,4 @@ First field - input battlemetrics link
 
 Second field - input steamid64 or steam profile link
 
-Simply run **tdgui.py** with python 3.12 and enjoy a simple gui
+Run **tdgui.py** with python 3.12 and enjoy a simple gui
