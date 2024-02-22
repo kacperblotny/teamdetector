@@ -4,7 +4,7 @@
 
 Python version: 3.12
 ```
-$ git clone [https://github.com/alexemanuelol/team-detector.git](https://github.com/KacperBlotny/teamdetector)
+$ git clone https://github.com/KacperBlotny/teamdetector
 ```
 
 **Usage**
